@@ -1,5 +1,5 @@
-=== Complianz GDPR autocheck ===
-Contributors: Complianz Team
+=== Complianz Pre-Checked Categories ===
+Contributors: Complianz.io
 Tags: GDPR, CCPA, AVG, E-Privacy
 Requires at least: 4.7
 License: GPL2
